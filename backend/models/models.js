@@ -14,10 +14,10 @@ let fightDataSchema = new Schema({
     },
     matchUp: {
         type: String,
-    
+
     }
 
-
+    
 }, {
     collection: 'fightData',
     timestamps: true
